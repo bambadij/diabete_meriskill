@@ -1,4 +1,4 @@
-#**bold text**# Title of the project 2: “Diabetes Patients”
+## Title of the project 2: “Diabetes Patients”
 
 
 ## Project Description
